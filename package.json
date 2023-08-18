@@ -12,7 +12,6 @@
   "dependencies": {
     "@zodios/core": "^10.9.4",
     "@zodios/react": "^10.4.5",
-    "axios": "^1.4.0",
     "zod": "^3.22.1"
   }
 }

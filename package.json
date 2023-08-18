@@ -4,11 +4,6 @@
   "devDependencies": {
     "typescript": "^5.1.6"
   },
-  "scripts": {},
-  "workspaces": [
-    "packages/*",
-    "apps/*"
-  ],
   "dependencies": {
     "@zodios/core": "^10.9.4",
     "@zodios/react": "^10.4.5",

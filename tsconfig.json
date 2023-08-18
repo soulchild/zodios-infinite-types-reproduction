@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "allowJs": true,
+    "module": "NodeNext",
+    "target": "es2020",
+    "lib": ["es2020"],
+    "declaration": true,
+    "esModuleInterop": true,
+    "moduleResolution": "NodeNext",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "include": ["./src/**/*"]
+}
